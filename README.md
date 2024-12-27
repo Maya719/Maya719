@@ -3,9 +3,9 @@
 I'm a code wizard 🧙‍♂️, problem solver, and avid tech explorer 🚀. I love writing clean, efficient code and experimenting with new tools and technologies.
 
 ### 🔧 Tech I love:
-- **Languages**: JavaScript, Python, TypeScript, C++
+- **Languages**: JavaScript, Python, PHP,
 - **Tools**: Git, Docker, VS Code
-- **Frameworks**: React, Node.js, Django
+- **Frameworks**: Laravel, Codeignater, Django, Flask, FastAPI
 
 ### 🌱 Currently learning:
 - **AI** and **Machine Learning**
