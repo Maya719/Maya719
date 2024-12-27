@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m [Your Name]!
+# 👋 Hi there! I’m Maya khan!
 
 I'm a code wizard 🧙‍♂️, problem solver, and avid tech explorer 🚀. I love writing clean, efficient code and experimenting with new tools and technologies.
 
