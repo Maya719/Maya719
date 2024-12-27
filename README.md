@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Maya719
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I’m Maya khan!
+I'm a code wizard 🧙‍♂️, problem solver, and avid tech explorer 🚀. I love writing clean, efficient code and experimenting with new tools and technologies.
 
-<!---
-Maya719/Maya719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech I love:
+Languages: JavaScript, Python, TypeScript, C++
+Tools: Git, Docker, VS Code
+Frameworks: React, Node.js, Django
+🌱 Currently learning:
+AI and Machine Learning
+New frameworks and anything that makes coding more fun! 😎
+💬 Let’s connect and geek out over tech!
